@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lengman07
 - 👀 I’m interested in algorithmic trading and data science
 - 🌱 I’m currently learning data engineering
-- 💞️ I’m looking to collaborate on building trading models 
+- I’m looking to collaborate on building trading models 
 - 📫 How to reach me "albertafaglo@gmail.com"
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...got none
